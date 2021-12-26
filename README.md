@@ -1,3 +1,3 @@
 # CV
 
-https://natashapahorukova.github.io/CV/
+[DEMO](https://natashapahorukova.github.io/CV/)
